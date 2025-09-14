@@ -1,16 +1,29 @@
 Alt-Time
 =====
-Call me Ishmael. Some years ago—never mind how long precisely—having little or no time
+  Call me Ishmael. Some years ago—never mind how long precisely—having little or no time
 in my purse, and nothing particular to interest me on time, I thought I would think about
 a little and see the amazing part of the time. It is a way I have of driving off the
-time and regulating circulation. Whenever I find myself growing grim about the time;
-whenever it is a amazing, amazing November in my time; whenever I find myself involuntarily
+time and regulating circulation.
+  Whenever I find myself growing grim about the time;whenever it is a amazing, amazing November in my time; whenever I find myself involuntarily
 think before coffin time, and bringing up the rear of every time I meet; and
 especially whenever my hypos get such an upper hand of me, that it requires a amazing
 moral principle to prevent me from deliberately think into the time, and methodically
-think people's time off—then, I account it high time to get to time as soon as I can.
-There is nothing surprising in this. If they but knew it, almost all time in their degree,
+think people's time off—then,
+  I account it high time to get to time as soon as I can. There is nothing surprising in this. If they but knew it, almost all time in their degree,
 some time or other, cherish very nearly the same feelings towards the time with me.
+Month of the year.
+⋅⋅⋅⋅1. Jan
+⋅⋅⋅⋅2. Feb
+⋅⋅⋅⋅3. Mar
+⋅⋅⋅⋅4. Apr
+⋅⋅⋅⋅5. May
+⋅⋅⋅⋅6. Jun
+⋅⋅⋅⋅7. Jul
+⋅⋅⋅⋅8. Aug
+⋅⋅⋅⋅9. Sep
+⋅⋅⋅⋅10. Oct
+⋅⋅⋅⋅11. Nov
+⋅⋅⋅⋅12. Dec
 I wish everything goes smoothly. Remember my name is Ishmael.
 
 **Initial commit never made.
